@@ -1,0 +1,21 @@
+# run_Estudy.mac — Rutherford Scattering Energy Study
+# Alpha particles at 3 different energies on gold foil (5 um)
+# Each run saves its own rutherford.root file via analysisManager
+
+/run/initialize
+/run/printProgress 10000
+
+# ── Energy 1: 4 MeV ──────────────────────────────────────────────
+/gun/particle alpha
+/gun/energy 4 MeV
+/run/beamOn 100000
+
+# ── Energy 2: 8 MeV ──────────────────────────────────────────────
+/gun/particle alpha
+/gun/energy 8 MeV
+/run/beamOn 100000
+
+# ── Energy 3: 12 MeV ─────────────────────────────────────────────
+/gun/particle alpha
+/gun/energy 12 MeV
+/run/beamOn 100000

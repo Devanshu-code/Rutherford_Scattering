@@ -1,0 +1,7 @@
+# run_4MeV.mac — Alpha 4 MeV on Gold Foil
+/run/initialize
+/gun/particle alpha
+/gun/energy 4 MeV
+/analysis/setFileName rutherford_4MeV
+/run/printProgress 10000
+/run/beamOn 100000
