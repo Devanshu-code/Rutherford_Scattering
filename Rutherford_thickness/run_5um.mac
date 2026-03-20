@@ -1,0 +1,5 @@
+# run_5um.mac — Gold foil 5 um, alpha 5 MeV
+/run/initialize
+/analysis/setFileName rutherford_5um
+/run/printProgress 10000
+/run/beamOn 100000
