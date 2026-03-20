@@ -1,0 +1,5 @@
+# run_Al.mac — Aluminium foil (Z=13), alpha 5 MeV, 5 um
+/run/initialize
+/analysis/setFileName rutherford_Al_Z13
+/run/printProgress 10000
+/run/beamOn 100000

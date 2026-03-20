@@ -1,0 +1,5 @@
+# run_Au.mac — Gold foil (Z=79), alpha 5 MeV, 5 um
+/run/initialize
+/analysis/setFileName rutherford_Au_Z79
+/run/printProgress 10000
+/run/beamOn 100000

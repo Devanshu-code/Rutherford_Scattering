@@ -1,0 +1,5 @@
+# run_Cu.mac — Copper foil (Z=29), alpha 5 MeV, 5 um
+/run/initialize
+/analysis/setFileName rutherford_Cu_Z29
+/run/printProgress 10000
+/run/beamOn 100000

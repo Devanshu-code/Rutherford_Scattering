@@ -1,0 +1,3 @@
+/Users/devanshu/geant4-work/Rutherford_Zstudy/build/CMakeFiles/exampleB1.dir
+/Users/devanshu/geant4-work/Rutherford_Zstudy/build/CMakeFiles/edit_cache.dir
+/Users/devanshu/geant4-work/Rutherford_Zstudy/build/CMakeFiles/rebuild_cache.dir
