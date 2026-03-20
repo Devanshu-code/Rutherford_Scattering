@@ -1,0 +1,3 @@
+/Users/devanshu/geant4-work/Rutherford_Scttering/build/CMakeFiles/exampleB1.dir
+/Users/devanshu/geant4-work/Rutherford_Scttering/build/CMakeFiles/edit_cache.dir
+/Users/devanshu/geant4-work/Rutherford_Scttering/build/CMakeFiles/rebuild_cache.dir
